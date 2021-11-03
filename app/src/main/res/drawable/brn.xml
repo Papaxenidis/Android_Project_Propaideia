@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ripple xmlns:android = "http://schemas.android.com/apk/res/android"
+    xmlns:tools2 = "http://schemas.android.com/tools"
+    android:color="@color/RippleEffect"
+    tools2:targetApi = "lollipop" >
+
+    <item>
+
+        <shape android:shape="rectangle">
+
+            <gradient android:startColor="@color/BtnColor"
+                android:endColor="#f8d588" android:type = "linear">
+
+            </gradient>
+
+            <corners android:radius="350dp"></corners>
+
+
+        </shape>
+
+
+    </item>
+
+
+
+
+
+
+
+</ripple>

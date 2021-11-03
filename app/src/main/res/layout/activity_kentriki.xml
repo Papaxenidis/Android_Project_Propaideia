@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#ffff"
+    android:layout_height="match_parent"
+
+    tools:context=".Kentriki">
+
+    <android.widget.Button
+        android:id="@+id/button13"
+        android:layout_width="168dp"
+        android:layout_height="61dp"
+        android:background="@drawable/brn"
+        android:text="ΑΠΟΣΥΝΔΕΣΗ"
+        android:textSize="24dp"
+
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.934"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.3" />
+
+    <android.widget.Button
+        android:id="@+id/button10"
+        android:layout_width="168dp"
+        android:layout_height="61dp"
+        android:background="@drawable/brn"
+        android:text="ΞΕΚΙΝΑ"
+        android:textSize="24dp"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.069"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.167" />
+
+    <android.widget.Button
+        android:id="@+id/button11"
+        android:layout_width="168dp"
+        android:layout_height="61dp"
+        android:background="@drawable/brn"
+        android:text="ΒΑΘΜΟΛΟΓΙΑ"
+        android:textColor="@color/white"
+        android:textSize="24dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.069"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.3" />
+
+    <android.widget.Button
+        android:id="@+id/button12"
+        android:layout_width="168dp"
+        android:layout_height="61dp"
+        android:background="@drawable/brn"
+        android:text="ΠΡΟΠΑΙΔΙΕΣ"
+        android:textSize="24dp"
+
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.934"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.167" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="277dp"
+        android:layout_height="494dp"
+        android:layout_marginStart="192dp"
+        android:layout_marginTop="288dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/propedoulis_kai_skilos" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="439dp"
+        android:layout_height="270dp"
+        android:layout_marginStart="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.034"
+        app:srcCompat="@drawable/pinax" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

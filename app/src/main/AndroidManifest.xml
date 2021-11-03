@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.project_pro">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Project_pro">
+        <activity android:name=".Stats"></activity>
+        <activity android:name=".Apotelesmata" />
+        <activity android:name=".Askiseis_2o" />
+        <activity android:name=".Askiseis_1o" />
+        <activity android:name=".propedies_" />
+        <activity android:name=".prop" />
+        <activity android:name=".reception" />
+        <activity android:name=".Xekinima" />
+        <activity android:name=".yli_k_test" />
+        <activity android:name=".Thesi_kodikou" />
+        <activity android:name=".Epivaivewsi_code" />
+        <activity android:name=".Kentriki" />
+        <activity android:name=".Anaktisi_code" />
+        <activity android:name=".Eisodos" />
+        <activity android:name=".Eggrafi" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
