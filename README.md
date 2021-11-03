@@ -17,4 +17,3 @@ Check the UI
 
 ![Screenshot from 2021-11-02 17-58-26](https://user-images.githubusercontent.com/36454034/140101305-73877c2e-bbb9-4b2f-96d4-7d4086d81d6f.png)
 
-![Screenshot_20211102-180044_Project_pro](https://user-images.githubusercontent.com/36454034/140101365-52b9669f-f7a2-4d57-a2d1-55da1bc960f2.jpg)
