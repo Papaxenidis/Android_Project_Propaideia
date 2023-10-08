@@ -1,7 +1,6 @@
 # Project_Propaideia
-A project that helps children to learn prep
-
-Check the UI
+A project that helps children to learn the basical multiplication panel. I consider it to be my best and more useful application. Check the UI
+below and also the code at the master branch.
 
 
 ![Screenshot from 2021-11-02 17-57-49](https://user-images.githubusercontent.com/36454034/140101000-6823ad6d-04ba-4931-aefb-b53ea11b3fd1.png)
